@@ -18,8 +18,10 @@
 - **Icons**: Custom SVG icons
 - **Styling**: CSS3 with animations
 
-Запуск JSON Server (мок API) без него не будет видно карточек на сайте :(
-npx json-server db.json
+> **⚠️ Важно:** Для отображения карточек товаров необходимо запустить JSON Server:
+> ```bash
+> npx json-server db.json
+> ```
 
 
 Food_dist/
@@ -37,5 +39,6 @@ Food_dist/
 
 ## 🌐 Демо  
 • [Открыть сайт](https://kodahere.github.io/HealthyFoodProject)
+
 
 
