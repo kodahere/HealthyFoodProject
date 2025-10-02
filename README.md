@@ -24,4 +24,4 @@
 > ```
 
 ## 🌐 Демо  
-• [Открыть сайт](https://kodahere.github.io/HealthyFoodProject)
+• [Открыть сайт](https://kodahere.github.io/healthy-food-project/)
